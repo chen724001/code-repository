@@ -1,9 +1,9 @@
 package com.chf.design.mode.creater.factory.single;
 
-import com.chf.design.mode.creater.factory.constants.ProductType;
-import com.chf.design.mode.creater.factory.entity.IProduct;
-import com.chf.design.mode.creater.factory.entity.Keybroad;
-import com.chf.design.mode.creater.factory.entity.Mouse;
+import com.chf.design.mode.constants.ProductType;
+import com.chf.design.mode.entity.IProduct;
+import com.chf.design.mode.entity.Keybroad;
+import com.chf.design.mode.entity.Mouse;
 
 public class SingleFactory {
 	public IProduct createProduct(String type) {

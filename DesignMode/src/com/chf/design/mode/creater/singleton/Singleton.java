@@ -1,5 +1,10 @@
 package com.chf.design.mode.creater.singleton;
 
+/**
+ * 单例
+ * @author HANDSOME
+ *
+ */
 public class Singleton {
 	private static Singleton instance;
 	

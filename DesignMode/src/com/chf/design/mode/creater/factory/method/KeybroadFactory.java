@@ -1,7 +1,7 @@
 package com.chf.design.mode.creater.factory.method;
 
-import com.chf.design.mode.creater.factory.entity.IProduct;
-import com.chf.design.mode.creater.factory.entity.Keybroad;
+import com.chf.design.mode.entity.IProduct;
+import com.chf.design.mode.entity.Keybroad;
 
 public class KeybroadFactory implements IMethodFactory{
 

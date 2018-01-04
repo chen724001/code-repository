@@ -1,4 +1,4 @@
-package com.chf.design.mode.creater.factory.constants;
+package com.chf.design.mode.constants;
 
 public class ProductType {
 	public static final String MOUSE = "MOUSE";
